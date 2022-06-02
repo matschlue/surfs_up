@@ -6,9 +6,13 @@ This analysis provides information about temperature trends before opening the s
 ## Results: 
  - June
 
+![Alt text](/june_temp.png "Image")
+
 For June, the average temperature is around 75 degrees Fahrenheit (24 degrees Celsius), with a min of 64 degrees Fahrenheit (18 degrees Celcius) and a max of 85 degrees Fahrenheit (29 degrees Celsius).
 
  - December
+
+![Alt text](/dec_temp.png "Image")
 
 For December, the average temperature is around 71 degrees Fahrenheit (22 degrees Celsius), with a min of 56 degrees Fahrenheit (13 degrees Celcius) and a max of 83 degrees Fahrenheit (28 degrees Celsius).
 
