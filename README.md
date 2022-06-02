@@ -16,4 +16,7 @@ For December, the average temperature is around 71 degrees Fahrenheit (22 degree
 
 Oahu seems to be good place to open a surf and ice cream shop business since the weather is very stable and predictable. All year round, warm temerpatures can be expected. 
 
+Two additonal queries to investiage could be:
 
+ - precipitation data in order to examine the potential rainfall 
+ - water temperature in order to examine the temperatue of the ocean
